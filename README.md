@@ -57,3 +57,7 @@ This project is designed to analyze diabetes datasets and compare machine learni
 👩‍💻 Author
 
 Vanshika Maheshwari
+
+## ✨ AI Assistance Disclaimer
+
+This project was developed with the assistance of Generative AI tools for code generation and optimization. However, I have a clear understanding of the implementation, including data preprocessing, model training, and evaluation techniques used in this project.
