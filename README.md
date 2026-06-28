@@ -1,4 +1,4 @@
-# 🩺 AI Diabetes Prediction System
+# 🩺 Data-Efficient ML for Healthcare Prediction
 A Machine Learning web application built using Streamlit that predicts diabetes using Decision Tree and K-Nearest Neighbors (KNN) algorithms.
 ## 🚀 Features
 
